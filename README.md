@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/northwind-banner.svg" alt="Northwind Labs" width="100%">
+  
 
   <br>
 
